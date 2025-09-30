@@ -4,6 +4,8 @@ description: Lecture slides on creativity.
 file: /courses/15-301-managerial-psychology-fall-2006/684d7625c71543c9a108c0b43ff41cd3_lec10.pdf
 file_size: 55656
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
