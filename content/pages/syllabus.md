@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides information on the course rationale, format,
   requirements, textbooks, grading, class participation and conduct, and the policy
   on individual work.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

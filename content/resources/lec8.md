@@ -4,8 +4,6 @@ description: Lecture slides on decision making.
 file: /courses/15-301-managerial-psychology-fall-2006/f0f1165cc6052f4d60bd25892fe17624_lec8.pdf
 file_size: 61255
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

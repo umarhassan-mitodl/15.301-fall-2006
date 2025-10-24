@@ -5,8 +5,6 @@ description: This resource contains guidelines for the social influence paper an
 file: /courses/15-301-managerial-psychology-fall-2006/21e4e406d532f2b8d89e43d5d5ea6f56_assn2.pdf
 file_size: 53951
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains writing guidelines for group project reports
 file: /courses/15-301-managerial-psychology-fall-2006/96b5d918de0c50ac62aa902d0b1f628d_writing.pdf
 file_size: 26732
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

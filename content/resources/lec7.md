@@ -4,8 +4,6 @@ description: Lecture slides on cognitive style (MBTI).
 file: /courses/15-301-managerial-psychology-fall-2006/af65d327868873f2b8f32eae6e6223ff_lec7.pdf
 file_size: 77824
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
